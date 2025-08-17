@@ -1,0 +1,12 @@
+{
+  "name": "echobot",
+  "version": "1.0.0",
+  "description": "EchoBot - A Discord bot made by tanjiru._.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
